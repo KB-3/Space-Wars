@@ -1,6 +1,9 @@
 ## Space-Wars
 A classic arcade style game with lasers and spaceships.
 
+## Screenshots
+![Cover-art](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/screenshots/Cover%20Art.png)
+
 ## Goal
 
 This game is a classic space shooter game that aims to destroy the enemy ships in order to reach the highest level possible. My version of this game allows a player to have a shield with a protection of 5 for each level. Therefore as long as you clear the enemy fleet before your ship is hit five times you move forward to the next level. There are two power ups you can get as well one gives you more shield while the other allows you to shoot two lasers at a time. There are ten levels that get harder as they go up. Finally your ship can move left, right, and, up and down as well (check out the ship mobility section for specific controls). Sounds, sound effects, and music are present throughout the game so have fun and see how many levels you can complete!
@@ -8,9 +11,12 @@ This game is a classic space shooter game that aims to destroy the enemy ships i
 
 ## Screenshots
 
-![Start-screen](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
+![Start-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/screenshots/start_screen.PNG)
 
-![Play_screen](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/play_screen.PNG)
+![Play-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/screenshots/playing_screen.PNG)
+
+![Loose-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/screenshots/loose_screen.PNG)
+
 
 ## Controls
 HOW TO STAR/RESTART:
