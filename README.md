@@ -41,6 +41,13 @@ Down = down arrow key
 2. Shield Boost: this powerup allows you to add one meter to your shield so if you are in trouble you will have a little help.
 ![shield-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/powerupYellow_bolt.png)
 
+## Enemies
+These are all the enemy ships…
+![1-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
+![2-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
+![3-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
+![4-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
+
 ## Scoring
 
 The number of points you get for hitting enemy ships changes throughout levels. While for the added shield powerup you will receive # points and for the double shot powerup you will receive # points.
