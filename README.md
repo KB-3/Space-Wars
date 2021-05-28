@@ -43,10 +43,10 @@ Down = down arrow key
 
 ## Enemies
 These are all the enemy ships…
-![1-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
-![2-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
-![3-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
-![4-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
+![1-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/enemyGreen.png)
+![2-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/enemyPurple.png)
+![3-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/enemyWhite.png)
+![4-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/enemyBlack.png)
 
 ## Scoring
 
