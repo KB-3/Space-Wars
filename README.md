@@ -1,7 +1,7 @@
 ## Space-Wars
 A classic arcade style game with lasers and spaceships.
 
-## Screenshots
+## Coverart
 ![Cover-art](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/screenshots/Cover%20Art.png)
 
 ## Goal
