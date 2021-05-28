@@ -36,8 +36,10 @@ Down = down arrow key
 ## Power Ups
 
 1. Double shot Powerup: this powerup will give the player ship the ability to shoot two lasers at a time until it is hit by a ship from the enemy fleet
+![doubleshot-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/coin%202.png)
 
 2. Shield Boost: this powerup allows you to add one meter to your shield so if you are in trouble you will have a little help.
+![shield-screen](https://raw.githubusercontent.com/KB-3/Space-Wars/main/assets/images/powerupYellow_bolt.png)
 
 ## Scoring
 
